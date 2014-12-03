@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3D8DE8CA-4AF3-453F-ACF9-EF41B0F2A2EB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>proyectoTurismo</RootNamespace>
+    <AssemblyName>proyectoTurismo</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=10.8.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Activities" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Activities" />
+    <Reference Include="System.ServiceModel.Channels" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="agregarUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="agregarUsuarios.Designer.cs">
+      <DependentUpon>agregarUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cargarComboModulos.cs" />
+    <Compile Include="entidadesModulo.cs" />
+    <Compile Include="importarDatosMasivosEstablecimientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="importarDatosMasivosEstablecimientos.Designer.cs">
+      <DependentUpon>importarDatosMasivosEstablecimientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="importarDatosRegHoteles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="importarDatosRegHoteles.Designer.cs">
+      <DependentUpon>importarDatosRegHoteles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="importarRegDetOperativos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="importarRegDetOperativos.Designer.cs">
+      <DependentUpon>importarRegDetOperativos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menuNivelBajo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuNivelBajo.Designer.cs">
+      <DependentUpon>menuNivelBajo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menuNivelMedio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuNivelMedio.Designer.cs">
+      <DependentUpon>menuNivelMedio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menuSuperAdmn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menuSuperAdmn.Designer.cs">
+      <DependentUpon>menuSuperAdmn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\agregarModulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulos\agregarModulo.Designer.cs">
+      <DependentUpon>agregarModulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\DSmodulos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSmodulos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\reporteModulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulos\reporteModulo.Designer.cs">
+      <DependentUpon>reporteModulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\verReporteMod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulos\verReporteMod.Designer.cs">
+      <DependentUpon>verReporteMod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Operativos\nuevoOperativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Operativos\nuevoOperativo.Designer.cs">
+      <DependentUpon>nuevoOperativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Operativos\registroOperativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Operativos\registroOperativo.Designer.cs">
+      <DependentUpon>registroOperativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rellenarCombosRegModulo.cs" />
+    <EmbeddedResource Include="agregarUsuarios.resx">
+      <DependentUpon>agregarUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="importarDatosMasivosEstablecimientos.resx">
+      <DependentUpon>importarDatosMasivosEstablecimientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="importarDatosRegHoteles.resx">
+      <DependentUpon>importarDatosRegHoteles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="importarRegDetOperativos.resx">
+      <DependentUpon>importarRegDetOperativos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuNivelBajo.resx">
+      <DependentUpon>menuNivelBajo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuNivelMedio.resx">
+      <DependentUpon>menuNivelMedio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuSuperAdmn.resx">
+      <DependentUpon>menuSuperAdmn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulos\agregarModulo.resx">
+      <DependentUpon>agregarModulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulos\Report1.rdlc" />
+    <EmbeddedResource Include="Modulos\reporteModulo.resx">
+      <DependentUpon>reporteModulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulos\verReporteMod.resx">
+      <DependentUpon>verReporteMod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Operativos\nuevoOperativo.resx">
+      <DependentUpon>nuevoOperativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Operativos\registroOperativo.resx">
+      <DependentUpon>registroOperativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Modulos\DSmodulos.xsc">
+      <DependentUpon>DSmodulos.xsd</DependentUpon>
+    </None>
+    <None Include="Modulos\DSmodulos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSmodulos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Modulos\DSmodulos.xss">
+      <DependentUpon>DSmodulos.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_action_add_group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_action_new_label.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_action_labels.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_action_new_label1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\regEstablecimientos\regEstablecimientos\regEstablecimientos.csproj">
+      <Project>{5CE7B73A-40F4-4742-BA88-832963B1B9F2}</Project>
+      <Name>regEstablecimientos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\REGHOTELES\REGHOTELES\REGHOTELES.csproj">
+      <Project>{2695C951-4BA3-4141-AB70-2CF6596BBB70}</Project>
+      <Name>REGHOTELES</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\reporteAnio\reporteAnio\reporteAnio.csproj">
+      <Project>{CA8A411F-3C96-41E0-9CF3-4AD4B841C035}</Project>
+      <Name>reporteAnio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\reporteByCiudad\reporteByCiudad\reporteByCiudad.csproj">
+      <Project>{AA14FE01-B20E-4597-BE40-CDC678EB4EF7}</Project>
+      <Name>reporteByCiudad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\yaTodo\yaTodo\reporteDiario.csproj">
+      <Project>{945728D9-D705-4C6A-AE41-32D4736B49A5}</Project>
+      <Name>reporteDiario</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

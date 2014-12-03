@@ -1,0 +1,23 @@
+C:\Users\ariel\Documents\Turismo\Software\reporteAnio\reporteAnio\obj\x86\Debug\reporteAnio.csprojResolveAssemblyReference.cache
+C:\Users\ariel\Documents\Turismo\Software\reporteAnio\reporteAnio\obj\x86\Debug\reporteAnio.Form1.resources
+C:\Users\ariel\Documents\Turismo\Software\reporteAnio\reporteAnio\obj\x86\Debug\reporteAnio.Properties.Resources.resources
+C:\Users\ariel\Documents\Turismo\Software\reporteAnio\reporteAnio\obj\x86\Debug\reporteAnio.verReporteAnio.resources
+C:\Users\ariel\Documents\Turismo\Software\reporteAnio\reporteAnio\obj\x86\Debug\reporteAnio.csproj.GenerateResource.Cache
+C:\Users\ariel\Documents\Turismo\Software\reporteAnio\reporteAnio\obj\x86\Debug\RdlCompile.cache
+C:\Users\ariel\Documents\Turismo\Software\reporteAnio\reporteAnio\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ariel\Documents\Turismo\Software\reporteAnio\reporteAnio\bin\Debug\reporteAnio.exe.config
+C:\Users\ariel\Documents\Turismo\Software\reporteAnio\reporteAnio\bin\Debug\reporteAnio.exe
+C:\Users\ariel\Documents\Turismo\Software\reporteAnio\reporteAnio\bin\Debug\reporteAnio.pdb
+C:\Users\ariel\Documents\Turismo\Software\reporteAnio\reporteAnio\obj\x86\Debug\reporteAnio.exe
+C:\Users\ariel\Documents\Turismo\Software\reporteAnio\reporteAnio\obj\x86\Debug\reporteAnio.pdb
+C:\Users\ariel\Sistema completo\Sistema completo\reporteAnio\reporteAnio\bin\Debug\reporteAnio.exe.config
+C:\Users\ariel\Sistema completo\Sistema completo\reporteAnio\reporteAnio\bin\Debug\reporteAnio.exe
+C:\Users\ariel\Sistema completo\Sistema completo\reporteAnio\reporteAnio\bin\Debug\reporteAnio.pdb
+C:\Users\ariel\Sistema completo\Sistema completo\reporteAnio\reporteAnio\obj\x86\Debug\reporteAnio.Form1.resources
+C:\Users\ariel\Sistema completo\Sistema completo\reporteAnio\reporteAnio\obj\x86\Debug\reporteAnio.Properties.Resources.resources
+C:\Users\ariel\Sistema completo\Sistema completo\reporteAnio\reporteAnio\obj\x86\Debug\reporteAnio.verReporteAnio.resources
+C:\Users\ariel\Sistema completo\Sistema completo\reporteAnio\reporteAnio\obj\x86\Debug\reporteAnio.csproj.GenerateResource.Cache
+C:\Users\ariel\Sistema completo\Sistema completo\reporteAnio\reporteAnio\obj\x86\Debug\RdlCompile.cache
+C:\Users\ariel\Sistema completo\Sistema completo\reporteAnio\reporteAnio\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ariel\Sistema completo\Sistema completo\reporteAnio\reporteAnio\obj\x86\Debug\reporteAnio.exe
+C:\Users\ariel\Sistema completo\Sistema completo\reporteAnio\reporteAnio\obj\x86\Debug\reporteAnio.pdb

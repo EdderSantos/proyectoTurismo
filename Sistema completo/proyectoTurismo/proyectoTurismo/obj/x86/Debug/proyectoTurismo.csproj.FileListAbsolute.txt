@@ -1,0 +1,57 @@
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\bin\Debug\proyectoTurismo.exe
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\bin\Debug\proyectoTurismo.pdb
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.agregarUsuarios.resources
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.Properties.Resources.resources
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.csproj.GenerateResource.Cache
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.exe
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.pdb
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\bin\Debug\proyectoTurismo.exe.config
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.Operativos.registroOperativo.resources
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.csprojResolveAssemblyReference.cache
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\bin\Debug\yaTodo.exe
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\bin\Debug\yaTodo.pdb
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\bin\Debug\reporteAnio.exe
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\bin\Debug\reporteAnio.pdb
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\bin\Debug\reporteByCiudad.exe
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\bin\Debug\reporteByCiudad.pdb
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.Operativos.nuevoOperativo.resources
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.Modulos.agregarModulo.resources
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.Modulos.reporteModulo.resources
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.Modulos.verReporteMod.resources
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\obj\x86\Debug\RdlCompile.cache
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.menuSuperAdmn.resources
+C:\Users\ariel\Documents\Turismo\Software\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.Form1.resources
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\bin\Debug\proyectoTurismo.exe.config
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.exe
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.pdb
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.csprojResolveAssemblyReference.cache
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.agregarUsuarios.resources
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.Form1.resources
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.menuSuperAdmn.resources
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.Modulos.agregarModulo.resources
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.Modulos.reporteModulo.resources
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.Modulos.verReporteMod.resources
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.Operativos.nuevoOperativo.resources
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.Operativos.registroOperativo.resources
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.Properties.Resources.resources
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.csproj.GenerateResource.Cache
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\RdlCompile.cache
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\bin\Debug\proyectoTurismo.exe
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\bin\Debug\proyectoTurismo.pdb
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\bin\Debug\regEstablecimientos.exe
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\bin\Debug\REGHOTELES.exe
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\bin\Debug\reporteAnio.exe
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\bin\Debug\reporteByCiudad.exe
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\bin\Debug\yaTodo.exe
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\bin\Debug\regEstablecimientos.pdb
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\bin\Debug\REGHOTELES.pdb
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\bin\Debug\reporteAnio.pdb
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\bin\Debug\reporteByCiudad.pdb
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\bin\Debug\yaTodo.pdb
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.menuNivelBajo.resources
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.menuNivelMedio.resources
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.importarDatosMasivosEstablecimientos.resources
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.importarDatosRegHoteles.resources
+C:\Users\ariel\Sistema completo\Sistema completo\proyectoTurismo\proyectoTurismo\obj\x86\Debug\proyectoTurismo.importarRegDetOperativos.resources

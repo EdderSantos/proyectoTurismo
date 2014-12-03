@@ -1,0 +1,12 @@
+C:\Users\ariel\Documents\Turismo\Software\yaTodo\yaTodo\bin\Debug\yaTodo.exe.config
+C:\Users\ariel\Documents\Turismo\Software\yaTodo\yaTodo\bin\Debug\yaTodo.exe
+C:\Users\ariel\Documents\Turismo\Software\yaTodo\yaTodo\bin\Debug\yaTodo.pdb
+C:\Users\ariel\Documents\Turismo\Software\yaTodo\yaTodo\obj\x86\Debug\yaTodo.csprojResolveAssemblyReference.cache
+C:\Users\ariel\Documents\Turismo\Software\yaTodo\yaTodo\obj\x86\Debug\yaTodo.Form1.resources
+C:\Users\ariel\Documents\Turismo\Software\yaTodo\yaTodo\obj\x86\Debug\yaTodo.Properties.Resources.resources
+C:\Users\ariel\Documents\Turismo\Software\yaTodo\yaTodo\obj\x86\Debug\yaTodo.verReporteDiario.resources
+C:\Users\ariel\Documents\Turismo\Software\yaTodo\yaTodo\obj\x86\Debug\yaTodo.csproj.GenerateResource.Cache
+C:\Users\ariel\Documents\Turismo\Software\yaTodo\yaTodo\obj\x86\Debug\RdlCompile.cache
+C:\Users\ariel\Documents\Turismo\Software\yaTodo\yaTodo\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ariel\Documents\Turismo\Software\yaTodo\yaTodo\obj\x86\Debug\yaTodo.exe
+C:\Users\ariel\Documents\Turismo\Software\yaTodo\yaTodo\obj\x86\Debug\yaTodo.pdb

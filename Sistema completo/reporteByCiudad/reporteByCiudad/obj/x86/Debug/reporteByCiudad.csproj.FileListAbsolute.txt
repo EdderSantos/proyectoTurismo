@@ -1,0 +1,23 @@
+C:\Users\ariel\Documents\Turismo\Software\reporteByCiudad\reporteByCiudad\bin\Debug\reporteByCiudad.exe.config
+C:\Users\ariel\Documents\Turismo\Software\reporteByCiudad\reporteByCiudad\bin\Debug\reporteByCiudad.exe
+C:\Users\ariel\Documents\Turismo\Software\reporteByCiudad\reporteByCiudad\bin\Debug\reporteByCiudad.pdb
+C:\Users\ariel\Documents\Turismo\Software\reporteByCiudad\reporteByCiudad\obj\x86\Debug\reporteByCiudad.csprojResolveAssemblyReference.cache
+C:\Users\ariel\Documents\Turismo\Software\reporteByCiudad\reporteByCiudad\obj\x86\Debug\reporteByCiudad.Form1.resources
+C:\Users\ariel\Documents\Turismo\Software\reporteByCiudad\reporteByCiudad\obj\x86\Debug\reporteByCiudad.Properties.Resources.resources
+C:\Users\ariel\Documents\Turismo\Software\reporteByCiudad\reporteByCiudad\obj\x86\Debug\reporteByCiudad.verReporteByCiudad.resources
+C:\Users\ariel\Documents\Turismo\Software\reporteByCiudad\reporteByCiudad\obj\x86\Debug\reporteByCiudad.csproj.GenerateResource.Cache
+C:\Users\ariel\Documents\Turismo\Software\reporteByCiudad\reporteByCiudad\obj\x86\Debug\RdlCompile.cache
+C:\Users\ariel\Documents\Turismo\Software\reporteByCiudad\reporteByCiudad\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ariel\Documents\Turismo\Software\reporteByCiudad\reporteByCiudad\obj\x86\Debug\reporteByCiudad.exe
+C:\Users\ariel\Documents\Turismo\Software\reporteByCiudad\reporteByCiudad\obj\x86\Debug\reporteByCiudad.pdb
+C:\Users\ariel\Sistema completo\Sistema completo\reporteByCiudad\reporteByCiudad\bin\Debug\reporteByCiudad.exe.config
+C:\Users\ariel\Sistema completo\Sistema completo\reporteByCiudad\reporteByCiudad\bin\Debug\reporteByCiudad.exe
+C:\Users\ariel\Sistema completo\Sistema completo\reporteByCiudad\reporteByCiudad\bin\Debug\reporteByCiudad.pdb
+C:\Users\ariel\Sistema completo\Sistema completo\reporteByCiudad\reporteByCiudad\obj\x86\Debug\reporteByCiudad.Form1.resources
+C:\Users\ariel\Sistema completo\Sistema completo\reporteByCiudad\reporteByCiudad\obj\x86\Debug\reporteByCiudad.Properties.Resources.resources
+C:\Users\ariel\Sistema completo\Sistema completo\reporteByCiudad\reporteByCiudad\obj\x86\Debug\reporteByCiudad.verReporteByCiudad.resources
+C:\Users\ariel\Sistema completo\Sistema completo\reporteByCiudad\reporteByCiudad\obj\x86\Debug\reporteByCiudad.csproj.GenerateResource.Cache
+C:\Users\ariel\Sistema completo\Sistema completo\reporteByCiudad\reporteByCiudad\obj\x86\Debug\RdlCompile.cache
+C:\Users\ariel\Sistema completo\Sistema completo\reporteByCiudad\reporteByCiudad\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ariel\Sistema completo\Sistema completo\reporteByCiudad\reporteByCiudad\obj\x86\Debug\reporteByCiudad.exe
+C:\Users\ariel\Sistema completo\Sistema completo\reporteByCiudad\reporteByCiudad\obj\x86\Debug\reporteByCiudad.pdb

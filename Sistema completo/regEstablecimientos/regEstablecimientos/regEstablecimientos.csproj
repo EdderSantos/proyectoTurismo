@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5CE7B73A-40F4-4742-BA88-832963B1B9F2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>regEstablecimientos</RootNamespace>
+    <AssemblyName>regEstablecimientos</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cargarCombos.cs" />
+    <Compile Include="COMBOS.cs" />
+    <Compile Include="CONEXION.cs" />
+    <Compile Include="DtsEstablecimientos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DtsEstablecimientos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="entidades.cs" />
+    <Compile Include="proyectoTurismoDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>proyectoTurismoDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="regOp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="regOp.Designer.cs">
+      <DependentUpon>regOp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rep_Loc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rep_Loc.Designer.cs">
+      <DependentUpon>rep_Loc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rep_Localidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rep_Localidad.Designer.cs">
+      <DependentUpon>rep_Localidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rep_Muni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rep_Muni.Designer.cs">
+      <DependentUpon>rep_Muni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rep_Municipio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rep_Municipio.Designer.cs">
+      <DependentUpon>rep_Municipio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TurismoDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TurismoDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="regOp.resx">
+      <DependentUpon>regOp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="rep_Loc.resx">
+      <DependentUpon>rep_Loc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rep_Localalidad.rdlc" />
+    <EmbeddedResource Include="rep_Localidad.resx">
+      <DependentUpon>rep_Localidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rep_Muni.resx">
+      <DependentUpon>rep_Muni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rep_Municipio.rdlc" />
+    <EmbeddedResource Include="rep_Municipio.resx">
+      <DependentUpon>rep_Municipio.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="DtsEstablecimientos.xsc">
+      <DependentUpon>DtsEstablecimientos.xsd</DependentUpon>
+    </None>
+    <None Include="DtsEstablecimientos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DtsEstablecimientos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DtsEstablecimientos.xss">
+      <DependentUpon>DtsEstablecimientos.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="proyectoTurismoDataSet.xsc">
+      <DependentUpon>proyectoTurismoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="proyectoTurismoDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>proyectoTurismoDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="proyectoTurismoDataSet.xss">
+      <DependentUpon>proyectoTurismoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TurismoDataSet.xsc">
+      <DependentUpon>TurismoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TurismoDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TurismoDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TurismoDataSet.xss">
+      <DependentUpon>TurismoDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\REGHOTELES\REGHOTELES\REGHOTELES.csproj">
+      <Project>{2695C951-4BA3-4141-AB70-2CF6596BBB70}</Project>
+      <Name>REGHOTELES</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

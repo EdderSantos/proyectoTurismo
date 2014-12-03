@@ -1,0 +1,40 @@
+C:\Users\ariel\Documents\Turismo\Software\regEstablecimientos\regEstablecimientos\bin\Debug\regEstablecimientos.exe
+C:\Users\ariel\Documents\Turismo\Software\regEstablecimientos\regEstablecimientos\bin\Debug\regEstablecimientos.pdb
+C:\Users\ariel\Documents\Turismo\Software\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.regOp.resources
+C:\Users\ariel\Documents\Turismo\Software\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.Properties.Resources.resources
+C:\Users\ariel\Documents\Turismo\Software\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.csproj.GenerateResource.Cache
+C:\Users\ariel\Documents\Turismo\Software\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.exe
+C:\Users\ariel\Documents\Turismo\Software\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.pdb
+C:\Users\ariel\Documents\Turismo\Software\regEstablecimientos\regEstablecimientos\bin\Debug\regEstablecimientos.exe.config
+E:\Users\Carolina Limon\Desktop\regEstablecimientos\regEstablecimientos\bin\Debug\regEstablecimientos.exe.config
+E:\Users\Carolina Limon\Desktop\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.exe
+E:\Users\Carolina Limon\Desktop\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.pdb
+E:\Users\Carolina Limon\Desktop\regEstablecimientos\regEstablecimientos\bin\Debug\regEstablecimientos.exe
+E:\Users\Carolina Limon\Desktop\regEstablecimientos\regEstablecimientos\bin\Debug\regEstablecimientos.pdb
+E:\Users\Carolina Limon\Desktop\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.regOp.resources
+E:\Users\Carolina Limon\Desktop\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.Properties.Resources.resources
+E:\Users\Carolina Limon\Desktop\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.csproj.GenerateResource.Cache
+E:\Users\Carolina Limon\Desktop\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.csprojResolveAssemblyReference.cache
+E:\Users\Carolina Limon\Desktop\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.rep_Muni.resources
+E:\Users\Carolina Limon\Desktop\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.rep_Municipio.resources
+E:\Users\Carolina Limon\Desktop\regEstablecimientos\regEstablecimientos\obj\x86\Debug\RdlCompile.cache
+E:\Users\Carolina Limon\Desktop\regEstablecimientos\regEstablecimientos\obj\x86\Debug\RdlCompile.compiled
+E:\Users\Carolina Limon\Desktop\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.rep_Loc.resources
+E:\Users\Carolina Limon\Desktop\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.rep_Localidad.resources
+C:\Users\ariel\Sistema completo\Sistema completo\regEstablecimientos\regEstablecimientos\bin\Debug\regEstablecimientos.exe.config
+C:\Users\ariel\Sistema completo\Sistema completo\regEstablecimientos\regEstablecimientos\bin\Debug\regEstablecimientos.exe
+C:\Users\ariel\Sistema completo\Sistema completo\regEstablecimientos\regEstablecimientos\bin\Debug\regEstablecimientos.pdb
+C:\Users\ariel\Sistema completo\Sistema completo\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.csprojResolveAssemblyReference.cache
+C:\Users\ariel\Sistema completo\Sistema completo\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.regOp.resources
+C:\Users\ariel\Sistema completo\Sistema completo\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.Properties.Resources.resources
+C:\Users\ariel\Sistema completo\Sistema completo\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.rep_Loc.resources
+C:\Users\ariel\Sistema completo\Sistema completo\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.rep_Localidad.resources
+C:\Users\ariel\Sistema completo\Sistema completo\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.rep_Muni.resources
+C:\Users\ariel\Sistema completo\Sistema completo\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.rep_Municipio.resources
+C:\Users\ariel\Sistema completo\Sistema completo\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.csproj.GenerateResource.Cache
+C:\Users\ariel\Sistema completo\Sistema completo\regEstablecimientos\regEstablecimientos\obj\x86\Debug\RdlCompile.cache
+C:\Users\ariel\Sistema completo\Sistema completo\regEstablecimientos\regEstablecimientos\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ariel\Sistema completo\Sistema completo\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.exe
+C:\Users\ariel\Sistema completo\Sistema completo\regEstablecimientos\regEstablecimientos\obj\x86\Debug\regEstablecimientos.pdb
+C:\Users\ariel\Sistema completo\Sistema completo\regEstablecimientos\regEstablecimientos\bin\Debug\REGHOTELES.exe
+C:\Users\ariel\Sistema completo\Sistema completo\regEstablecimientos\regEstablecimientos\bin\Debug\REGHOTELES.pdb

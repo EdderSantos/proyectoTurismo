@@ -1,0 +1,39 @@
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\bin\Debug\REGHOTELES.exe
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\bin\Debug\REGHOTELES.pdb
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.Form1.resources
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.Properties.Resources.resources
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.csproj.GenerateResource.Cache
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.exe
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.pdb
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\bin\Debug\REGHOTELES.exe.config
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.regLocalidad.resources
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.csprojResolveAssemblyReference.cache
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.Rep_Municipio.resources
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.reportemunicipio.resources
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\obj\x86\Debug\RdlCompile.cache
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\obj\x86\Debug\RdlCompile.compiled
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.rep_Localidad.resources
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.reporteLocalidad.resources
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.Rep_General.resources
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.Reporte_categoria.resources
+C:\Projects\SECTUR\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.CategoriaMunicipio.resources
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\bin\Debug\REGHOTELES.exe.config
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\bin\Debug\REGHOTELES.exe
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\bin\Debug\REGHOTELES.pdb
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.CategoriaMunicipio.resources
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.Rep_General.resources
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.rep_Localidad.resources
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.Form1.resources
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.Properties.Resources.resources
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.regLocalidad.resources
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.reporteLocalidad.resources
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.reportemunicipio.resources
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.Rep_Municipio.resources
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.csproj.GenerateResource.Cache
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\obj\x86\Debug\RdlCompile.cache
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.exe
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.pdb
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.ReporteCategoriacs.resources
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.rep_localidad_categoria.resources
+C:\Users\ariel\Sistema completo\Sistema completo\REGHOTELES\REGHOTELES\obj\x86\Debug\REGHOTELES.repcategoriaLocalidad.resources
